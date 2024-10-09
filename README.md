@@ -14,4 +14,4 @@ Tento Discord bot provádí hod mincí a vrací citáty inspirované postavou An
 - Knihovna `discord.py`
 - Platný Discord token
 
-![alt text](<screenshot.png>)# DISCORD-BOT
+![alt text](<screenshot.png>)
